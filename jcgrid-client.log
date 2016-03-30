@@ -1,0 +1,129 @@
+0    2015-06-10 14:39:12,284 [Thread-0] WARN   Starting JCGrid Node...
+2    2015-06-10 14:39:12,286 [Thread-0] WARN     Server address: localhost
+3    2015-06-10 14:39:12,287 [Thread-0] WARN     Server client port: 10101
+3    2015-06-10 14:39:12,287 [Thread-0] WARN     Server worker port: 10102
+3    2015-06-10 14:39:12,287 [Thread-0] WARN     Server admin. port: 10103
+3    2015-06-10 14:39:12,287 [Thread-0] WARN     Working dir.: E:\资料\开发工具\IdeaProjects\jgap\cache
+4    2015-06-10 14:39:12,288 [Thread-0] WARN     Use secure connection: no
+4    2015-06-10 14:39:12,288 [Thread-0] WARN     Node type: CLIENT
+16   2015-06-10 14:39:12,300 [Thread-0] WARN     Use compressed connection: no
+16   2015-06-10 14:39:12,300 [Thread-0] WARN     Connecting to server...
+1231 2015-06-10 14:39:13,515 [Thread-0] ERROR  Error catched on client side: Error while doing the work
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at java.net.Socket.<init>(Unknown Source)
+	at org.homedns.dade.jcgrid.GridNodeGeneric.start(GridNodeGeneric.java:76)
+	at org.homedns.dade.jcgrid.client.GridClient.start(GridClient.java:80)
+	at org.jgap.distr.grid.JGAPClient.startClient(JGAPClient.java:79)
+	at org.jgap.distr.grid.JGAPClient.run(JGAPClient.java:99)
+0    2015-06-10 14:39:42,357 [Thread-0] WARN   Starting JCGrid Node...
+1    2015-06-10 14:39:42,358 [Thread-0] WARN     Server address: localhost
+1    2015-06-10 14:39:42,358 [Thread-0] WARN     Server client port: 10101
+2    2015-06-10 14:39:42,359 [Thread-0] WARN     Server worker port: 10102
+2    2015-06-10 14:39:42,359 [Thread-0] WARN     Server admin. port: 10103
+2    2015-06-10 14:39:42,359 [Thread-0] WARN     Working dir.: E:\资料\开发工具\IdeaProjects\jgap\cache
+3    2015-06-10 14:39:42,360 [Thread-0] WARN     Use secure connection: no
+3    2015-06-10 14:39:42,360 [Thread-0] WARN     Node type: CLIENT
+3    2015-06-10 14:39:42,360 [Thread-0] WARN     Use compressed connection: no
+4    2015-06-10 14:39:42,361 [Thread-0] WARN     Connecting to server...
+96   2015-06-10 14:39:42,453 [Thread-0] WARN     Ok
+96   2015-06-10 14:39:42,453 [Thread-0] WARN     Sending login information...
+242  2015-06-10 14:39:42,599 [Thread-0] WARN     Ok
+253  2015-06-10 14:39:42,610 [Thread-0] WARN   VFS starting on path: E:\资料\开发工具\IdeaProjects\jgap\cache
+259  2015-06-10 14:39:42,616 [Thread-0] WARN   VFS session size: 0MB
+331  2015-06-10 14:39:42,688 [Thread-0] WARN   Client starts sending work requests
+335  2015-06-10 14:39:42,692 [Thread-0] WARN   Sending work request 0
+462  2015-06-10 14:39:42,819 [Thread-0] WARN   Sending work request 1
+472  2015-06-10 14:39:42,829 [Thread-0] WARN   Sending work request 2
+484  2015-06-10 14:39:42,841 [Thread-0] WARN   Sending work request 3
+506  2015-06-10 14:39:42,863 [Thread-0] WARN   Sending work request 4
+516  2015-06-10 14:39:42,873 [Thread-0] WARN   Sending work request 5
+528  2015-06-10 14:39:42,885 [Thread-0] WARN   Sending work request 6
+538  2015-06-10 14:39:42,895 [Thread-0] WARN   Sending work request 7
+551  2015-06-10 14:39:42,908 [Thread-0] WARN   Sending work request 8
+563  2015-06-10 14:39:42,920 [Thread-0] WARN   Sending work request 9
+18088 2015-06-10 14:40:00,445 [Thread-0] WARN   Receiving work (index 0). First solution: Size:16, Fitness value:23998.0, Alleles:[BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false], Application data:null
+18118 2015-06-10 14:40:00,475 [Thread-0] WARN   Receiving work (index 1). First solution: Size:16, Fitness value:31688.0, Alleles:[BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true], Application data:null
+18157 2015-06-10 14:40:00,514 [Thread-0] WARN   Receiving work (index 2). First solution: Size:16, Fitness value:4170.0, Alleles:[BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=true], Application data:null
+18201 2015-06-10 14:40:00,558 [Thread-0] WARN   Receiving work (index 3). First solution: Size:16, Fitness value:23490.0, Alleles:[BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false], Application data:null
+18243 2015-06-10 14:40:00,600 [Thread-0] WARN   Receiving work (index 4). First solution: Size:16, Fitness value:0.0, Alleles:[BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false], Application data:null
+18277 2015-06-10 14:40:00,634 [Thread-0] WARN   Receiving work (index 5). First solution: Size:16, Fitness value:3061.0, Alleles:[BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+18315 2015-06-10 14:40:00,672 [Thread-0] WARN   Receiving work (index 6). First solution: Size:16, Fitness value:35830.0, Alleles:[BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false], Application data:null
+18357 2015-06-10 14:40:00,714 [Thread-0] WARN   Receiving work (index 7). First solution: Size:16, Fitness value:0.0, Alleles:[BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false], Application data:null
+18391 2015-06-10 14:40:00,748 [Thread-0] WARN   Receiving work (index 8). First solution: Size:16, Fitness value:36343.0, Alleles:[BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false], Application data:null
+18423 2015-06-10 14:40:00,780 [Thread-0] WARN   Receiving work (index 9). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+18426 2015-06-10 14:40:00,783 [Thread-0] WARN   Client notified that unit 0 is finished.
+18428 2015-06-10 14:40:00,785 [Thread-0] WARN   Sending work request 0
+18441 2015-06-10 14:40:00,798 [Thread-0] WARN   Sending work request 1
+18453 2015-06-10 14:40:00,810 [Thread-0] WARN   Sending work request 2
+18469 2015-06-10 14:40:00,826 [Thread-0] WARN   Sending work request 3
+18480 2015-06-10 14:40:00,837 [Thread-0] WARN   Sending work request 4
+18492 2015-06-10 14:40:00,849 [Thread-0] WARN   Sending work request 5
+18509 2015-06-10 14:40:00,866 [Thread-0] WARN   Sending work request 6
+18527 2015-06-10 14:40:00,884 [Thread-0] WARN   Sending work request 7
+18542 2015-06-10 14:40:00,899 [Thread-0] WARN   Sending work request 8
+18552 2015-06-10 14:40:00,909 [Thread-0] WARN   Sending work request 9
+18577 2015-06-10 14:40:00,934 [Thread-0] WARN   Receiving work (index 0). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+18602 2015-06-10 14:40:00,959 [Thread-0] WARN   Receiving work (index 1). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+18656 2015-06-10 14:40:01,013 [Thread-0] WARN   Receiving work (index 2). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+18704 2015-06-10 14:40:01,061 [Thread-0] WARN   Receiving work (index 3). First solution: Size:16, Fitness value:36345.0, Alleles:[BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false], Application data:null
+18754 2015-06-10 14:40:01,111 [Thread-0] WARN   Receiving work (index 4). First solution: Size:16, Fitness value:36343.0, Alleles:[BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false], Application data:null
+18801 2015-06-10 14:40:01,158 [Thread-0] WARN   Receiving work (index 5). First solution: Size:16, Fitness value:35830.0, Alleles:[BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false], Application data:null
+18842 2015-06-10 14:40:01,199 [Thread-0] WARN   Receiving work (index 6). First solution: Size:16, Fitness value:35774.0, Alleles:[BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false], Application data:null
+18881 2015-06-10 14:40:01,238 [Thread-0] WARN   Receiving work (index 7). First solution: Size:16, Fitness value:31688.0, Alleles:[BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true], Application data:null
+18938 2015-06-10 14:40:01,295 [Thread-0] WARN   Receiving work (index 8). First solution: Size:16, Fitness value:31671.0, Alleles:[BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true], Application data:null
+18968 2015-06-10 14:40:01,325 [Thread-0] WARN   Receiving work (index 9). First solution: Size:16, Fitness value:24073.0, Alleles:[BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false], Application data:null
+18971 2015-06-10 14:40:01,328 [Thread-0] WARN   Client notified that unit 1 is finished.
+18972 2015-06-10 14:40:01,329 [Thread-0] WARN   Sending work request 0
+18982 2015-06-10 14:40:01,339 [Thread-0] WARN   Sending work request 1
+18987 2015-06-10 14:40:01,344 [Thread-0] WARN   Sending work request 2
+19006 2015-06-10 14:40:01,363 [Thread-0] WARN   Sending work request 3
+19015 2015-06-10 14:40:01,372 [Thread-0] WARN   Sending work request 4
+19033 2015-06-10 14:40:01,390 [Thread-0] WARN   Sending work request 5
+19044 2015-06-10 14:40:01,401 [Thread-0] WARN   Sending work request 6
+19054 2015-06-10 14:40:01,411 [Thread-0] WARN   Sending work request 7
+19066 2015-06-10 14:40:01,423 [Thread-0] WARN   Sending work request 8
+19076 2015-06-10 14:40:01,433 [Thread-0] WARN   Sending work request 9
+19349 2015-06-10 14:40:01,706 [Thread-0] WARN   Receiving work (index 0). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+19396 2015-06-10 14:40:01,753 [Thread-0] WARN   Receiving work (index 1). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+19449 2015-06-10 14:40:01,806 [Thread-0] WARN   Receiving work (index 2). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+19487 2015-06-10 14:40:01,844 [Thread-0] WARN   Receiving work (index 3). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+19521 2015-06-10 14:40:01,878 [Thread-0] WARN   Receiving work (index 4). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+19552 2015-06-10 14:40:01,909 [Thread-0] WARN   Receiving work (index 5). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+19586 2015-06-10 14:40:01,943 [Thread-0] WARN   Receiving work (index 6). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+19626 2015-06-10 14:40:01,983 [Thread-0] WARN   Receiving work (index 7). First solution: Size:16, Fitness value:36854.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false], Application data:null
+19674 2015-06-10 14:40:02,031 [Thread-0] WARN   Receiving work (index 8). First solution: Size:16, Fitness value:36784.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true], Application data:null
+19707 2015-06-10 14:40:02,064 [Thread-0] WARN   Receiving work (index 9). First solution: Size:16, Fitness value:36354.0, Alleles:[BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+19709 2015-06-10 14:40:02,066 [Thread-0] WARN   Client notified that unit 2 is finished.
+19711 2015-06-10 14:40:02,068 [Thread-0] WARN   Sending work request 0
+19720 2015-06-10 14:40:02,077 [Thread-0] WARN   Sending work request 1
+19725 2015-06-10 14:40:02,082 [Thread-0] WARN   Sending work request 2
+19733 2015-06-10 14:40:02,090 [Thread-0] WARN   Sending work request 3
+19745 2015-06-10 14:40:02,102 [Thread-0] WARN   Sending work request 4
+19750 2015-06-10 14:40:02,107 [Thread-0] WARN   Sending work request 5
+19766 2015-06-10 14:40:02,123 [Thread-0] WARN   Sending work request 6
+19797 2015-06-10 14:40:02,154 [Thread-0] WARN   Sending work request 7
+19812 2015-06-10 14:40:02,169 [Thread-0] WARN   Sending work request 8
+19820 2015-06-10 14:40:02,177 [Thread-0] WARN   Sending work request 9
+19842 2015-06-10 14:40:02,199 [Thread-0] WARN   Receiving work (index 0). First solution: Size:16, Fitness value:36922.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+19858 2015-06-10 14:40:02,215 [Thread-0] WARN   Receiving work (index 1). First solution: Size:16, Fitness value:36922.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+19909 2015-06-10 14:40:02,266 [Thread-0] WARN   Receiving work (index 2). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+19951 2015-06-10 14:40:02,308 [Thread-0] WARN   Receiving work (index 3). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+19988 2015-06-10 14:40:02,345 [Thread-0] WARN   Receiving work (index 4). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+20022 2015-06-10 14:40:02,379 [Thread-0] WARN   Receiving work (index 5). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+20053 2015-06-10 14:40:02,410 [Thread-0] WARN   Receiving work (index 6). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+20083 2015-06-10 14:40:02,440 [Thread-0] WARN   Receiving work (index 7). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+20113 2015-06-10 14:40:02,470 [Thread-0] WARN   Receiving work (index 8). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+20142 2015-06-10 14:40:02,499 [Thread-0] WARN   Receiving work (index 9). First solution: Size:16, Fitness value:36863.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+20144 2015-06-10 14:40:02,501 [Thread-0] WARN   Client notified that unit 3 is finished.
+20144 2015-06-10 14:40:02,501 [Thread-0] WARN   Best solution evolved: Size:16, Fitness value:37375.0, Alleles:[BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=false, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=true, BooleanGene=false, BooleanGene=true], Application data:null
+20145 2015-06-10 14:40:02,502 [Thread-0] WARN   Your request was processed completely

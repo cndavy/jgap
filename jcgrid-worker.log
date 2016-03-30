@@ -1,0 +1,126 @@
+0    2014-03-26 15:00:11,198 [main] WARN   Starting JCGrid Node...
+2    2014-03-26 15:00:11,200 [main] WARN     Server address: localhost
+2    2014-03-26 15:00:11,200 [main] WARN     Server client port: 10101
+2    2014-03-26 15:00:11,200 [main] WARN     Server worker port: 10102
+2    2014-03-26 15:00:11,200 [main] WARN     Server admin. port: 10103
+2    2014-03-26 15:00:11,200 [main] WARN     Working dir.: E:\资料\开发工具\IdeaProjects\jgap\cache_0
+3    2014-03-26 15:00:11,201 [main] WARN     Use secure connection: no
+3    2014-03-26 15:00:11,201 [main] WARN     Node type: WORKER
+3    2014-03-26 15:00:11,201 [main] WARN     Use compressed connection: no
+3    2014-03-26 15:00:11,201 [main] WARN     Connecting to server...
+0    2014-03-26 15:01:05,893 [main] WARN   Starting JCGrid Node...
+2    2014-03-26 15:01:05,895 [main] WARN     Server address: localhost
+2    2014-03-26 15:01:05,895 [main] WARN     Server client port: 10101
+2    2014-03-26 15:01:05,895 [main] WARN     Server worker port: 10102
+2    2014-03-26 15:01:05,895 [main] WARN     Server admin. port: 10103
+2    2014-03-26 15:01:05,895 [main] WARN     Working dir.: E:\资料\开发工具\IdeaProjects\jgap\cache_0
+2    2014-03-26 15:01:05,895 [main] WARN     Use secure connection: no
+2    2014-03-26 15:01:05,895 [main] WARN     Node type: WORKER
+3    2014-03-26 15:01:05,896 [main] WARN     Use compressed connection: no
+3    2014-03-26 15:01:05,896 [main] WARN     Connecting to server...
+0    2014-03-26 15:02:13,793 [main] WARN   Starting JCGrid Node...
+2    2014-03-26 15:02:13,795 [main] WARN     Server address: localhost
+3    2014-03-26 15:02:13,796 [main] WARN     Server client port: 10101
+3    2014-03-26 15:02:13,796 [main] WARN     Server worker port: 10102
+3    2014-03-26 15:02:13,796 [main] WARN     Server admin. port: 10103
+3    2014-03-26 15:02:13,796 [main] WARN     Working dir.: E:\资料\开发工具\IdeaProjects\jgap\cache_0
+3    2014-03-26 15:02:13,796 [main] WARN     Use secure connection: no
+3    2014-03-26 15:02:13,796 [main] WARN     Node type: WORKER
+4    2014-03-26 15:02:13,797 [main] WARN     Use compressed connection: no
+4    2014-03-26 15:02:13,797 [main] WARN     Connecting to server...
+0    2015-06-10 14:40:00,217 [main] WARN   Starting JCGrid Node...
+24   2015-06-10 14:40:00,241 [main] WARN     Server address: localhost
+24   2015-06-10 14:40:00,241 [main] WARN     Server client port: 10101
+24   2015-06-10 14:40:00,241 [main] WARN     Server worker port: 10102
+25   2015-06-10 14:40:00,242 [main] WARN     Server admin. port: 10103
+25   2015-06-10 14:40:00,242 [main] WARN     Working dir.: E:\资料\开发工具\IdeaProjects\jgap\cache_0
+25   2015-06-10 14:40:00,242 [main] WARN     Use secure connection: no
+25   2015-06-10 14:40:00,242 [main] WARN     Node type: WORKER
+25   2015-06-10 14:40:00,242 [main] WARN     Use compressed connection: no
+25   2015-06-10 14:40:00,242 [main] WARN     Connecting to server...
+45   2015-06-10 14:40:00,262 [main] WARN     Ok
+46   2015-06-10 14:40:00,263 [main] WARN     Sending login information...
+59   2015-06-10 14:40:00,276 [main] WARN     Ok
+62   2015-06-10 14:40:00,279 [main] WARN   VFS session pool on path: E:\资料\开发工具\IdeaProjects\jgap\cache_0
+62   2015-06-10 14:40:00,279 [main] WARN   VFS Session cache size: 0/64MB
+156  2015-06-10 14:40:00,373 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+161  2015-06-10 14:40:00,378 [Thread-0] WARN   VFS starting on path: E:\资料\开发工具\IdeaProjects\jgap\cache_0\JGAP_fitness_distributed
+162  2015-06-10 14:40:00,379 [Thread-0] WARN   VFS session cache size: 0/64MB
+237  2015-06-10 14:40:00,454 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+237  2015-06-10 14:40:00,454 [Thread-0] WARN   VFS session cache size: 0/64MB
+270  2015-06-10 14:40:00,487 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+271  2015-06-10 14:40:00,488 [Thread-0] WARN   VFS session cache size: 0/64MB
+311  2015-06-10 14:40:00,528 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+312  2015-06-10 14:40:00,529 [Thread-0] WARN   VFS session cache size: 0/64MB
+356  2015-06-10 14:40:00,573 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+357  2015-06-10 14:40:00,574 [Thread-0] WARN   VFS session cache size: 0/64MB
+391  2015-06-10 14:40:00,608 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+392  2015-06-10 14:40:00,609 [Thread-0] WARN   VFS session cache size: 0/64MB
+428  2015-06-10 14:40:00,645 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+429  2015-06-10 14:40:00,646 [Thread-0] WARN   VFS session cache size: 0/64MB
+468  2015-06-10 14:40:00,685 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+471  2015-06-10 14:40:00,688 [Thread-0] WARN   VFS session cache size: 0/64MB
+508  2015-06-10 14:40:00,725 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+509  2015-06-10 14:40:00,726 [Thread-0] WARN   VFS session cache size: 0/64MB
+542  2015-06-10 14:40:00,759 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+542  2015-06-10 14:40:00,759 [Thread-0] WARN   VFS session cache size: 0/64MB
+596  2015-06-10 14:40:00,813 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+597  2015-06-10 14:40:00,814 [Thread-0] WARN   VFS session cache size: 0/64MB
+655  2015-06-10 14:40:00,872 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+657  2015-06-10 14:40:00,874 [Thread-0] WARN   VFS session cache size: 0/64MB
+738  2015-06-10 14:40:00,955 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+739  2015-06-10 14:40:00,956 [Thread-0] WARN   VFS session cache size: 0/64MB
+810  2015-06-10 14:40:01,027 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+811  2015-06-10 14:40:01,028 [Thread-0] WARN   VFS session cache size: 0/64MB
+854  2015-06-10 14:40:01,071 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+856  2015-06-10 14:40:01,073 [Thread-0] WARN   VFS session cache size: 0/64MB
+905  2015-06-10 14:40:01,122 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+906  2015-06-10 14:40:01,123 [Thread-0] WARN   VFS session cache size: 0/64MB
+957  2015-06-10 14:40:01,174 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+958  2015-06-10 14:40:01,175 [Thread-0] WARN   VFS session cache size: 0/64MB
+991  2015-06-10 14:40:01,208 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+991  2015-06-10 14:40:01,208 [Thread-0] WARN   VFS session cache size: 0/64MB
+1031 2015-06-10 14:40:01,248 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+1032 2015-06-10 14:40:01,249 [Thread-0] WARN   VFS session cache size: 0/64MB
+1085 2015-06-10 14:40:01,302 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+1086 2015-06-10 14:40:01,303 [Thread-0] WARN   VFS session cache size: 0/64MB
+1142 2015-06-10 14:40:01,359 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+1143 2015-06-10 14:40:01,360 [Thread-0] WARN   VFS session cache size: 0/64MB
+1502 2015-06-10 14:40:01,719 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+1508 2015-06-10 14:40:01,725 [Thread-0] WARN   VFS session cache size: 0/64MB
+1547 2015-06-10 14:40:01,764 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+1548 2015-06-10 14:40:01,765 [Thread-0] WARN   VFS session cache size: 0/64MB
+1603 2015-06-10 14:40:01,820 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+1604 2015-06-10 14:40:01,821 [Thread-0] WARN   VFS session cache size: 0/64MB
+1635 2015-06-10 14:40:01,852 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+1635 2015-06-10 14:40:01,852 [Thread-0] WARN   VFS session cache size: 0/64MB
+1668 2015-06-10 14:40:01,885 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+1669 2015-06-10 14:40:01,886 [Thread-0] WARN   VFS session cache size: 0/64MB
+1701 2015-06-10 14:40:01,918 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+1702 2015-06-10 14:40:01,919 [Thread-0] WARN   VFS session cache size: 0/64MB
+1733 2015-06-10 14:40:01,950 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+1734 2015-06-10 14:40:01,951 [Thread-0] WARN   VFS session cache size: 0/64MB
+1785 2015-06-10 14:40:02,002 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+1786 2015-06-10 14:40:02,003 [Thread-0] WARN   VFS session cache size: 0/64MB
+1821 2015-06-10 14:40:02,038 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+1822 2015-06-10 14:40:02,039 [Thread-0] WARN   VFS session cache size: 0/64MB
+1869 2015-06-10 14:40:02,086 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+1870 2015-06-10 14:40:02,087 [Thread-0] WARN   VFS session cache size: 0/64MB
+1909 2015-06-10 14:40:02,126 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+1949 2015-06-10 14:40:02,166 [Thread-0] WARN   VFS session cache size: 0/64MB
+2017 2015-06-10 14:40:02,234 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+2023 2015-06-10 14:40:02,240 [Thread-0] WARN   VFS session cache size: 0/64MB
+2063 2015-06-10 14:40:02,280 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+2064 2015-06-10 14:40:02,281 [Thread-0] WARN   VFS session cache size: 0/64MB
+2103 2015-06-10 14:40:02,320 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+2104 2015-06-10 14:40:02,321 [Thread-0] WARN   VFS session cache size: 0/64MB
+2138 2015-06-10 14:40:02,355 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+2139 2015-06-10 14:40:02,356 [Thread-0] WARN   VFS session cache size: 0/64MB
+2170 2015-06-10 14:40:02,387 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+2170 2015-06-10 14:40:02,387 [Thread-0] WARN   VFS session cache size: 0/64MB
+2201 2015-06-10 14:40:02,418 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+2202 2015-06-10 14:40:02,419 [Thread-0] WARN   VFS session cache size: 0/64MB
+2230 2015-06-10 14:40:02,447 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+2231 2015-06-10 14:40:02,448 [Thread-0] WARN   VFS session cache size: 0/64MB
+2260 2015-06-10 14:40:02,477 [Thread-0] WARN   Working for: JGAP_fitness_distributed
+2261 2015-06-10 14:40:02,478 [Thread-0] WARN   VFS session cache size: 0/64MB

@@ -1,0 +1,19 @@
+0    2015-06-10 14:39:38,593 [main] WARN   Starting JCGrid Node...
+2    2015-06-10 14:39:38,595 [main] WARN     Server address: erver
+2    2015-06-10 14:39:38,595 [main] WARN     Server client port: 10101
+2    2015-06-10 14:39:38,595 [main] WARN     Server worker port: 10102
+3    2015-06-10 14:39:38,596 [main] WARN     Server admin. port: 10103
+3    2015-06-10 14:39:38,596 [main] WARN     Working dir.: E:\资料\开发工具\IdeaProjects\jgap\cache
+4    2015-06-10 14:39:38,597 [main] WARN     Use secure connection: no
+4    2015-06-10 14:39:38,597 [main] WARN     Node type: SERVER
+4    2015-06-10 14:39:38,597 [main] WARN     Use compressed connection: no
+25   2015-06-10 14:39:38,618 [main] WARN   VFS session pool on path: E:\资料\开发工具\IdeaProjects\jgap\cache
+26   2015-06-10 14:39:38,619 [main] WARN   VFS Session cache size: 0/64MB
+37   2015-06-10 14:39:38,630 [main] WARN   Ok
+3783 2015-06-10 14:39:42,376 [Thread-0] WARN   Connection from /127.0.0.1:54003
+4048 2015-06-10 14:39:42,641 [Thread-3] WARN  [CLIENT-JGAP_fitness_distributed] New session: JGAP_fitness_distributed [127.0.0.1:10101]
+4058 2015-06-10 14:39:42,651 [Thread-3] WARN  [CLIENT-JGAP_fitness_distributed] VFS starting on path: E:\资料\开发工具\IdeaProjects\jgap\cache\JGAP_fitness_distributed
+4059 2015-06-10 14:39:42,652 [Thread-3] WARN  [CLIENT-JGAP_fitness_distributed] VFS session cache size: 0/64MB
+21665 2015-06-10 14:40:00,258 [Thread-1] WARN   Connection from /127.0.0.1:54004
+21683 2015-06-10 14:40:00,276 [Thread-4] WARN  [WORKER-RemoteSession_0] New session: RemoteSession_0 [127.0.0.1:10102]
+23911 2015-06-10 14:40:02,504 [Thread-3] WARN  [CLIENT-JGAP_fitness_distributed] End session: JGAP_fitness_distributed
